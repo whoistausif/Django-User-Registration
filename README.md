@@ -27,7 +27,8 @@ https://github.com/whoistausif/Django-User-Registration
 - **Authentication:** Django Auth Framework  
 
 ---
-```Django-User-Registration/
+```
+Django-User-Registration/
 │
 ├── manage.py
 ├── db.sqlite3
